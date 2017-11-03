@@ -33,6 +33,10 @@ li {
     padding-bottom: 30px;
 }
 
+.icon-text {
+    display: block;
+}
+
 .karaokio-red-gradient {
     color: #fff;
     background-color: #cd0928;
