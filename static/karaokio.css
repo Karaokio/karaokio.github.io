@@ -129,3 +129,39 @@ a:hover {
    color: #fff;
    text-shadow: 1px 2px 4px #282828;
 }
+
+.footer {
+  margin-top: 50px;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  }
+
+.footer a {
+    color: #fff;
+}
+
+
+.container .top-row-footer {
+    margin: 0px 0px;
+    font-size: 80%;
+    color: #fff;
+}
+
+.container .text-muted {
+  margin: 3px 0;
+  font-size: 80%;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.footer > .container > ul >li {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.container .copyright {
+    font-size: 80%;
+}
